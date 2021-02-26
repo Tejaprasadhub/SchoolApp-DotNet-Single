@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nmd+mNIodukHKfmK0SO9cZjnr8oddPqHF8j1B/owa05QenkrDRQW46054RDspoGeCdf0lo/n7pdFR8l366j1OA==",
+  "dgSpecHash": "xo24h7c2SxKSiIqIJ9gk2tCaGNgav+CPoegl+7qm6CuyEFMYWCwBxgNF19MvknpqADMDdvOUE20DONMOtv/VPQ==",
   "success": true,
-  "projectFilePath": "H:\\SampleAPI-Net\\CTS.DataAccess.AdminAPP.Interface\\CTS.DataAccess.AdminAPP.Interface.csproj",
+  "projectFilePath": "H:\\DotNet-SA-Single\\CTS.DataAccess.AdminAPP.Interface\\CTS.DataAccess.AdminAPP.Interface.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\google.protobuf\\3.6.1\\google.protobuf.3.6.1.nupkg.sha512",

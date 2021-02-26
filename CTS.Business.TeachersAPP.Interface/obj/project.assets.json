@@ -225,11 +225,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\SampleAPI-Net\\CTS.Business.TeachersAPP.Interface\\CTS.Business.TeachersAPP.Interface.csproj",
+      "projectUniqueName": "H:\\DotNet-SA-Single\\CTS.Business.TeachersAPP.Interface\\CTS.Business.TeachersAPP.Interface.csproj",
       "projectName": "CTS.Business.TeachersAPP.Interface",
-      "projectPath": "H:\\SampleAPI-Net\\CTS.Business.TeachersAPP.Interface\\CTS.Business.TeachersAPP.Interface.csproj",
+      "projectPath": "H:\\DotNet-SA-Single\\CTS.Business.TeachersAPP.Interface\\CTS.Business.TeachersAPP.Interface.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "H:\\SampleAPI-Net\\CTS.Business.TeachersAPP.Interface\\obj\\",
+      "outputPath": "H:\\DotNet-SA-Single\\CTS.Business.TeachersAPP.Interface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -225,11 +225,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\SampleAPI-Net\\CTS.Model\\CTS.Model.csproj",
+      "projectUniqueName": "H:\\DotNet-SA-Single\\CTS.Model\\CTS.Model.csproj",
       "projectName": "CTS.Model",
-      "projectPath": "H:\\SampleAPI-Net\\CTS.Model\\CTS.Model.csproj",
+      "projectPath": "H:\\DotNet-SA-Single\\CTS.Model\\CTS.Model.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "H:\\SampleAPI-Net\\CTS.Model\\obj\\",
+      "outputPath": "H:\\DotNet-SA-Single\\CTS.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

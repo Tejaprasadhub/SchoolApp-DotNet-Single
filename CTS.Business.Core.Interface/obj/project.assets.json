@@ -225,11 +225,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\SampleAPI-Net\\CTS.Business.Core.Interface\\CTS.Business.Core.Interface.csproj",
+      "projectUniqueName": "H:\\DotNet-SA-Single\\CTS.Business.Core.Interface\\CTS.Business.Core.Interface.csproj",
       "projectName": "CTS.Business.Core.Interface",
-      "projectPath": "H:\\SampleAPI-Net\\CTS.Business.Core.Interface\\CTS.Business.Core.Interface.csproj",
+      "projectPath": "H:\\DotNet-SA-Single\\CTS.Business.Core.Interface\\CTS.Business.Core.Interface.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "H:\\SampleAPI-Net\\CTS.Business.Core.Interface\\obj\\",
+      "outputPath": "H:\\DotNet-SA-Single\\CTS.Business.Core.Interface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

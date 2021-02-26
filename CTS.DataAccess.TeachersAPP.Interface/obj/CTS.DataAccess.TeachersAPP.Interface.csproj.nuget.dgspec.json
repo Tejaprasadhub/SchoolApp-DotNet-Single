@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\SampleAPI-Net\\CTS.DataAccess.TeachersAPP.Interface\\CTS.DataAccess.TeachersAPP.Interface.csproj": {}
+    "H:\\DotNet-SA-Single\\CTS.DataAccess.TeachersAPP.Interface\\CTS.DataAccess.TeachersAPP.Interface.csproj": {}
   },
   "projects": {
-    "H:\\SampleAPI-Net\\CTS.DataAccess.TeachersAPP.Interface\\CTS.DataAccess.TeachersAPP.Interface.csproj": {
+    "H:\\DotNet-SA-Single\\CTS.DataAccess.TeachersAPP.Interface\\CTS.DataAccess.TeachersAPP.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\SampleAPI-Net\\CTS.DataAccess.TeachersAPP.Interface\\CTS.DataAccess.TeachersAPP.Interface.csproj",
+        "projectUniqueName": "H:\\DotNet-SA-Single\\CTS.DataAccess.TeachersAPP.Interface\\CTS.DataAccess.TeachersAPP.Interface.csproj",
         "projectName": "CTS.DataAccess.TeachersAPP.Interface",
-        "projectPath": "H:\\SampleAPI-Net\\CTS.DataAccess.TeachersAPP.Interface\\CTS.DataAccess.TeachersAPP.Interface.csproj",
+        "projectPath": "H:\\DotNet-SA-Single\\CTS.DataAccess.TeachersAPP.Interface\\CTS.DataAccess.TeachersAPP.Interface.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "H:\\SampleAPI-Net\\CTS.DataAccess.TeachersAPP.Interface\\obj\\",
+        "outputPath": "H:\\DotNet-SA-Single\\CTS.DataAccess.TeachersAPP.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

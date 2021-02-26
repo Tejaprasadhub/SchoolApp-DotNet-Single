@@ -225,11 +225,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\SampleAPI-Net\\CTS.Business.ParentsAPP\\CTS.Business.ParentsAPP.csproj",
+      "projectUniqueName": "H:\\DotNet-SA-Single\\CTS.Business.ParentsAPP\\CTS.Business.ParentsAPP.csproj",
       "projectName": "CTS.Business.ParentsAPP",
-      "projectPath": "H:\\SampleAPI-Net\\CTS.Business.ParentsAPP\\CTS.Business.ParentsAPP.csproj",
+      "projectPath": "H:\\DotNet-SA-Single\\CTS.Business.ParentsAPP\\CTS.Business.ParentsAPP.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "H:\\SampleAPI-Net\\CTS.Business.ParentsAPP\\obj\\",
+      "outputPath": "H:\\DotNet-SA-Single\\CTS.Business.ParentsAPP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

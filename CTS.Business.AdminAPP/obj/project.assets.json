@@ -6420,11 +6420,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\SampleAPI-Net\\CTS.Business.AdminAPP\\CTS.Business.AdminAPP.csproj",
+      "projectUniqueName": "H:\\DotNet-SA-Single\\CTS.Business.AdminAPP\\CTS.Business.AdminAPP.csproj",
       "projectName": "CTS.Business.AdminAPP",
-      "projectPath": "H:\\SampleAPI-Net\\CTS.Business.AdminAPP\\CTS.Business.AdminAPP.csproj",
+      "projectPath": "H:\\DotNet-SA-Single\\CTS.Business.AdminAPP\\CTS.Business.AdminAPP.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "H:\\SampleAPI-Net\\CTS.Business.AdminAPP\\obj\\",
+      "outputPath": "H:\\DotNet-SA-Single\\CTS.Business.AdminAPP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6440,20 +6440,20 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "H:\\SampleAPI-Net\\CTS.Business.AdminAPP.Interface\\CTS.Business.AdminAPP.Interface.csproj": {
-              "projectPath": "H:\\SampleAPI-Net\\CTS.Business.AdminAPP.Interface\\CTS.Business.AdminAPP.Interface.csproj"
+            "H:\\DotNet-SA-Single\\CTS.Business.AdminAPP.Interface\\CTS.Business.AdminAPP.Interface.csproj": {
+              "projectPath": "H:\\DotNet-SA-Single\\CTS.Business.AdminAPP.Interface\\CTS.Business.AdminAPP.Interface.csproj"
             },
-            "H:\\SampleAPI-Net\\CTS.Business.Security.Interface\\CTS.Business.Security.Interface.csproj": {
-              "projectPath": "H:\\SampleAPI-Net\\CTS.Business.Security.Interface\\CTS.Business.Security.Interface.csproj"
+            "H:\\DotNet-SA-Single\\CTS.Business.Security.Interface\\CTS.Business.Security.Interface.csproj": {
+              "projectPath": "H:\\DotNet-SA-Single\\CTS.Business.Security.Interface\\CTS.Business.Security.Interface.csproj"
             },
-            "H:\\SampleAPI-Net\\CTS.Business.Security\\CTS.Business.Security.csproj": {
-              "projectPath": "H:\\SampleAPI-Net\\CTS.Business.Security\\CTS.Business.Security.csproj"
+            "H:\\DotNet-SA-Single\\CTS.Business.Security\\CTS.Business.Security.csproj": {
+              "projectPath": "H:\\DotNet-SA-Single\\CTS.Business.Security\\CTS.Business.Security.csproj"
             },
-            "H:\\SampleAPI-Net\\CTS.DataAccess.AdminAPP\\CTS.DataAccess.AdminAPP.csproj": {
-              "projectPath": "H:\\SampleAPI-Net\\CTS.DataAccess.AdminAPP\\CTS.DataAccess.AdminAPP.csproj"
+            "H:\\DotNet-SA-Single\\CTS.DataAccess.AdminAPP\\CTS.DataAccess.AdminAPP.csproj": {
+              "projectPath": "H:\\DotNet-SA-Single\\CTS.DataAccess.AdminAPP\\CTS.DataAccess.AdminAPP.csproj"
             },
-            "H:\\SampleAPI-Net\\CTS.DataAccess.Security.Interface\\CTS.DataAccess.Security.Interface.csproj": {
-              "projectPath": "H:\\SampleAPI-Net\\CTS.DataAccess.Security.Interface\\CTS.DataAccess.Security.Interface.csproj"
+            "H:\\DotNet-SA-Single\\CTS.DataAccess.Security.Interface\\CTS.DataAccess.Security.Interface.csproj": {
+              "projectPath": "H:\\DotNet-SA-Single\\CTS.DataAccess.Security.Interface\\CTS.DataAccess.Security.Interface.csproj"
             }
           }
         }

@@ -6357,11 +6357,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\SampleAPI-Net\\CTS.DataAccess.AdminAPP\\CTS.DataAccess.AdminAPP.csproj",
+      "projectUniqueName": "H:\\DotNet-SA-Single\\CTS.DataAccess.AdminAPP\\CTS.DataAccess.AdminAPP.csproj",
       "projectName": "CTS.DataAccess.AdminAPP",
-      "projectPath": "H:\\SampleAPI-Net\\CTS.DataAccess.AdminAPP\\CTS.DataAccess.AdminAPP.csproj",
+      "projectPath": "H:\\DotNet-SA-Single\\CTS.DataAccess.AdminAPP\\CTS.DataAccess.AdminAPP.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "H:\\SampleAPI-Net\\CTS.DataAccess.AdminAPP\\obj\\",
+      "outputPath": "H:\\DotNet-SA-Single\\CTS.DataAccess.AdminAPP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6377,17 +6377,17 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "H:\\SampleAPI-Net\\CTS.Common\\CTS.Common.csproj": {
-              "projectPath": "H:\\SampleAPI-Net\\CTS.Common\\CTS.Common.csproj"
+            "H:\\DotNet-SA-Single\\CTS.Common\\CTS.Common.csproj": {
+              "projectPath": "H:\\DotNet-SA-Single\\CTS.Common\\CTS.Common.csproj"
             },
-            "H:\\SampleAPI-Net\\CTS.Core.DataAccess\\CTS.Core.DataAccess.csproj": {
-              "projectPath": "H:\\SampleAPI-Net\\CTS.Core.DataAccess\\CTS.Core.DataAccess.csproj"
+            "H:\\DotNet-SA-Single\\CTS.Core.DataAccess\\CTS.Core.DataAccess.csproj": {
+              "projectPath": "H:\\DotNet-SA-Single\\CTS.Core.DataAccess\\CTS.Core.DataAccess.csproj"
             },
-            "H:\\SampleAPI-Net\\CTS.DataAccess.AdminAPP.Interface\\CTS.DataAccess.AdminAPP.Interface.csproj": {
-              "projectPath": "H:\\SampleAPI-Net\\CTS.DataAccess.AdminAPP.Interface\\CTS.DataAccess.AdminAPP.Interface.csproj"
+            "H:\\DotNet-SA-Single\\CTS.DataAccess.AdminAPP.Interface\\CTS.DataAccess.AdminAPP.Interface.csproj": {
+              "projectPath": "H:\\DotNet-SA-Single\\CTS.DataAccess.AdminAPP.Interface\\CTS.DataAccess.AdminAPP.Interface.csproj"
             },
-            "H:\\SampleAPI-Net\\CTS.DataAccess.Core\\CTS.DataAccess.Core.csproj": {
-              "projectPath": "H:\\SampleAPI-Net\\CTS.DataAccess.Core\\CTS.DataAccess.Core.csproj"
+            "H:\\DotNet-SA-Single\\CTS.DataAccess.Core\\CTS.DataAccess.Core.csproj": {
+              "projectPath": "H:\\DotNet-SA-Single\\CTS.DataAccess.Core\\CTS.DataAccess.Core.csproj"
             }
           }
         }

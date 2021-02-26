@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1/8/B8FHka88348KFB+jrs/xdpyudIZIXSQLyLMxPXvGu/cCjC+VuDiH1ny9Jn/tXfOqVXXfnmPRc3JxuKqy5Q==",
+  "dgSpecHash": "6Zjr0nxPuaf3Ch6O1WgELy6IeAkCrVXxkeZsdYDYJHTnkovrqvbKQIuCFLYpeG1Ryh0kz1dnDzwtwa4AiXfw0A==",
   "success": true,
-  "projectFilePath": "H:\\SampleAPI-Net\\CTS.DataAccess.TeachersAPP\\CTS.DataAccess.TeachersAPP.csproj",
+  "projectFilePath": "H:\\DotNet-SA-Single\\CTS.DataAccess.TeachersAPP\\CTS.DataAccess.TeachersAPP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

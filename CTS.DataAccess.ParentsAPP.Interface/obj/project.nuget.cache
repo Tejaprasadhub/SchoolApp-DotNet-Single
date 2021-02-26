@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cX8xUC9dPTsu44luFRtY4d2zdpEsbYhT//gOcCTqrIch2fcegdwmJAVknJyEzbFRqFbNgdoupe46dbdo890fZw==",
+  "dgSpecHash": "QpLvHaSmcGg+y+4zg82I8Njj1VmAUlLLtV4puMLcdOltyDNh9J9S5lwKBXhkOvtsuzitJJVt44gh/jDSUClgxg==",
   "success": true,
-  "projectFilePath": "H:\\SampleAPI-Net\\CTS.DataAccess.ParentsAPP.Interface\\CTS.DataAccess.ParentsAPP.Interface.csproj",
+  "projectFilePath": "H:\\DotNet-SA-Single\\CTS.DataAccess.ParentsAPP.Interface\\CTS.DataAccess.ParentsAPP.Interface.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

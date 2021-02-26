@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\SampleAPI-Net\\CTS.DataAccess.ParentsAPP.Interface\\CTS.DataAccess.ParentsAPP.Interface.csproj": {}
+    "H:\\DotNet-SA-Single\\CTS.DataAccess.ParentsAPP.Interface\\CTS.DataAccess.ParentsAPP.Interface.csproj": {}
   },
   "projects": {
-    "H:\\SampleAPI-Net\\CTS.DataAccess.ParentsAPP.Interface\\CTS.DataAccess.ParentsAPP.Interface.csproj": {
+    "H:\\DotNet-SA-Single\\CTS.DataAccess.ParentsAPP.Interface\\CTS.DataAccess.ParentsAPP.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\SampleAPI-Net\\CTS.DataAccess.ParentsAPP.Interface\\CTS.DataAccess.ParentsAPP.Interface.csproj",
+        "projectUniqueName": "H:\\DotNet-SA-Single\\CTS.DataAccess.ParentsAPP.Interface\\CTS.DataAccess.ParentsAPP.Interface.csproj",
         "projectName": "CTS.DataAccess.ParentsAPP.Interface",
-        "projectPath": "H:\\SampleAPI-Net\\CTS.DataAccess.ParentsAPP.Interface\\CTS.DataAccess.ParentsAPP.Interface.csproj",
+        "projectPath": "H:\\DotNet-SA-Single\\CTS.DataAccess.ParentsAPP.Interface\\CTS.DataAccess.ParentsAPP.Interface.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "H:\\SampleAPI-Net\\CTS.DataAccess.ParentsAPP.Interface\\obj\\",
+        "outputPath": "H:\\DotNet-SA-Single\\CTS.DataAccess.ParentsAPP.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

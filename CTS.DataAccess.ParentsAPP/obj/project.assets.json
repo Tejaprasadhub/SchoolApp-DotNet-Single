@@ -225,11 +225,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\SampleAPI-Net\\CTS.DataAccess.ParentsAPP\\CTS.DataAccess.ParentsAPP.csproj",
+      "projectUniqueName": "H:\\DotNet-SA-Single\\CTS.DataAccess.ParentsAPP\\CTS.DataAccess.ParentsAPP.csproj",
       "projectName": "CTS.DataAccess.ParentsAPP",
-      "projectPath": "H:\\SampleAPI-Net\\CTS.DataAccess.ParentsAPP\\CTS.DataAccess.ParentsAPP.csproj",
+      "projectPath": "H:\\DotNet-SA-Single\\CTS.DataAccess.ParentsAPP\\CTS.DataAccess.ParentsAPP.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "H:\\SampleAPI-Net\\CTS.DataAccess.ParentsAPP\\obj\\",
+      "outputPath": "H:\\DotNet-SA-Single\\CTS.DataAccess.ParentsAPP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

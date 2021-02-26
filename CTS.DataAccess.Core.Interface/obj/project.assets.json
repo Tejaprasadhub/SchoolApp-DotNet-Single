@@ -225,11 +225,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\SampleAPI-Net\\CTS.DataAccess.Core.Interface\\CTS.DataAccess.Core.Interface.csproj",
+      "projectUniqueName": "H:\\DotNet-SA-Single\\CTS.DataAccess.Core.Interface\\CTS.DataAccess.Core.Interface.csproj",
       "projectName": "CTS.DataAccess.Core.Interface",
-      "projectPath": "H:\\SampleAPI-Net\\CTS.DataAccess.Core.Interface\\CTS.DataAccess.Core.Interface.csproj",
+      "projectPath": "H:\\DotNet-SA-Single\\CTS.DataAccess.Core.Interface\\CTS.DataAccess.Core.Interface.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "H:\\SampleAPI-Net\\CTS.DataAccess.Core.Interface\\obj\\",
+      "outputPath": "H:\\DotNet-SA-Single\\CTS.DataAccess.Core.Interface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

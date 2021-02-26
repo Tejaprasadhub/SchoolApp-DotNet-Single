@@ -6336,11 +6336,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\SampleAPI-Net\\CTS.DataAccess.AdminAPP.Interface\\CTS.DataAccess.AdminAPP.Interface.csproj",
+      "projectUniqueName": "H:\\DotNet-SA-Single\\CTS.DataAccess.AdminAPP.Interface\\CTS.DataAccess.AdminAPP.Interface.csproj",
       "projectName": "CTS.DataAccess.AdminAPP.Interface",
-      "projectPath": "H:\\SampleAPI-Net\\CTS.DataAccess.AdminAPP.Interface\\CTS.DataAccess.AdminAPP.Interface.csproj",
+      "projectPath": "H:\\DotNet-SA-Single\\CTS.DataAccess.AdminAPP.Interface\\CTS.DataAccess.AdminAPP.Interface.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "H:\\SampleAPI-Net\\CTS.DataAccess.AdminAPP.Interface\\obj\\",
+      "outputPath": "H:\\DotNet-SA-Single\\CTS.DataAccess.AdminAPP.Interface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6356,8 +6356,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "H:\\SampleAPI-Net\\CTS.Common\\CTS.Common.csproj": {
-              "projectPath": "H:\\SampleAPI-Net\\CTS.Common\\CTS.Common.csproj"
+            "H:\\DotNet-SA-Single\\CTS.Common\\CTS.Common.csproj": {
+              "projectPath": "H:\\DotNet-SA-Single\\CTS.Common\\CTS.Common.csproj"
             }
           }
         }

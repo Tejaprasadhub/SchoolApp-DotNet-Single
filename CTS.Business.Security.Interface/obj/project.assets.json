@@ -6335,11 +6335,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\SampleAPI-Net\\CTS.Business.Security.Interface\\CTS.Business.Security.Interface.csproj",
+      "projectUniqueName": "H:\\DotNet-SA-Single\\CTS.Business.Security.Interface\\CTS.Business.Security.Interface.csproj",
       "projectName": "CTS.Business.Security.Interface",
-      "projectPath": "H:\\SampleAPI-Net\\CTS.Business.Security.Interface\\CTS.Business.Security.Interface.csproj",
+      "projectPath": "H:\\DotNet-SA-Single\\CTS.Business.Security.Interface\\CTS.Business.Security.Interface.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "H:\\SampleAPI-Net\\CTS.Business.Security.Interface\\obj\\",
+      "outputPath": "H:\\DotNet-SA-Single\\CTS.Business.Security.Interface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6355,8 +6355,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "H:\\SampleAPI-Net\\CTS.Common\\CTS.Common.csproj": {
-              "projectPath": "H:\\SampleAPI-Net\\CTS.Common\\CTS.Common.csproj"
+            "H:\\DotNet-SA-Single\\CTS.Common\\CTS.Common.csproj": {
+              "projectPath": "H:\\DotNet-SA-Single\\CTS.Common\\CTS.Common.csproj"
             }
           }
         }

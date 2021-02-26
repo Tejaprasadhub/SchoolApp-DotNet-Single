@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bo3LWr1gX8Kagn/FKd+cALxkOTod3+j6e7aVfHc0Qwo1GbJQUPrjHyEcAi9g1L7Q5fBODNbT1Zyv0fcf2cfSMw==",
+  "dgSpecHash": "HBQniPUk1robpzouoTIEbcvLg93Ekn37U2JhAaRFmRiFjI0TZYzNoCBNq7x7C2SDrQsM66ZXr5oO3GgYNTfKow==",
   "success": true,
-  "projectFilePath": "H:\\SampleAPI-Net\\CTS.Business.TeachersAPP\\CTS.Business.TeachersAPP.csproj",
+  "projectFilePath": "H:\\DotNet-SA-Single\\CTS.Business.TeachersAPP\\CTS.Business.TeachersAPP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

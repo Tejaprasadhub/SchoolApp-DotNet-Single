@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\SampleAPI-Net\\CTS.Business.TeachersAPP\\CTS.Business.TeachersAPP.csproj": {}
+    "H:\\DotNet-SA-Single\\CTS.Business.TeachersAPP\\CTS.Business.TeachersAPP.csproj": {}
   },
   "projects": {
-    "H:\\SampleAPI-Net\\CTS.Business.TeachersAPP\\CTS.Business.TeachersAPP.csproj": {
+    "H:\\DotNet-SA-Single\\CTS.Business.TeachersAPP\\CTS.Business.TeachersAPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\SampleAPI-Net\\CTS.Business.TeachersAPP\\CTS.Business.TeachersAPP.csproj",
+        "projectUniqueName": "H:\\DotNet-SA-Single\\CTS.Business.TeachersAPP\\CTS.Business.TeachersAPP.csproj",
         "projectName": "CTS.Business.TeachersAPP",
-        "projectPath": "H:\\SampleAPI-Net\\CTS.Business.TeachersAPP\\CTS.Business.TeachersAPP.csproj",
+        "projectPath": "H:\\DotNet-SA-Single\\CTS.Business.TeachersAPP\\CTS.Business.TeachersAPP.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "H:\\SampleAPI-Net\\CTS.Business.TeachersAPP\\obj\\",
+        "outputPath": "H:\\DotNet-SA-Single\\CTS.Business.TeachersAPP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

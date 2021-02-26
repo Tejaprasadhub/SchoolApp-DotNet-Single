@@ -225,11 +225,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\SampleAPI-Net\\CTS.DataAccess.TeachersAPP\\CTS.DataAccess.TeachersAPP.csproj",
+      "projectUniqueName": "H:\\DotNet-SA-Single\\CTS.DataAccess.TeachersAPP\\CTS.DataAccess.TeachersAPP.csproj",
       "projectName": "CTS.DataAccess.TeachersAPP",
-      "projectPath": "H:\\SampleAPI-Net\\CTS.DataAccess.TeachersAPP\\CTS.DataAccess.TeachersAPP.csproj",
+      "projectPath": "H:\\DotNet-SA-Single\\CTS.DataAccess.TeachersAPP\\CTS.DataAccess.TeachersAPP.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "H:\\SampleAPI-Net\\CTS.DataAccess.TeachersAPP\\obj\\",
+      "outputPath": "H:\\DotNet-SA-Single\\CTS.DataAccess.TeachersAPP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

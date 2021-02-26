@@ -5258,11 +5258,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\SampleAPI-Net\\CTS.Core.DataAccess\\CTS.Core.DataAccess.csproj",
+      "projectUniqueName": "H:\\DotNet-SA-Single\\CTS.Core.DataAccess\\CTS.Core.DataAccess.csproj",
       "projectName": "CTS.Core.DataAccess",
-      "projectPath": "H:\\SampleAPI-Net\\CTS.Core.DataAccess\\CTS.Core.DataAccess.csproj",
+      "projectPath": "H:\\DotNet-SA-Single\\CTS.Core.DataAccess\\CTS.Core.DataAccess.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "H:\\SampleAPI-Net\\CTS.Core.DataAccess\\obj\\",
+      "outputPath": "H:\\DotNet-SA-Single\\CTS.Core.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5278,8 +5278,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "H:\\SampleAPI-Net\\CTS.DataAccess.Core\\CTS.DataAccess.Core.csproj": {
-              "projectPath": "H:\\SampleAPI-Net\\CTS.DataAccess.Core\\CTS.DataAccess.Core.csproj"
+            "H:\\DotNet-SA-Single\\CTS.DataAccess.Core\\CTS.DataAccess.Core.csproj": {
+              "projectPath": "H:\\DotNet-SA-Single\\CTS.DataAccess.Core\\CTS.DataAccess.Core.csproj"
             }
           }
         }

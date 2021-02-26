@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\SampleAPI-Net\\CTS.DataAccess.Core\\CTS.DataAccess.Core.csproj": {}
+    "H:\\DotNet-SA-Single\\CTS.DataAccess.Core\\CTS.DataAccess.Core.csproj": {}
   },
   "projects": {
-    "H:\\SampleAPI-Net\\CTS.DataAccess.Core\\CTS.DataAccess.Core.csproj": {
+    "H:\\DotNet-SA-Single\\CTS.DataAccess.Core\\CTS.DataAccess.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\SampleAPI-Net\\CTS.DataAccess.Core\\CTS.DataAccess.Core.csproj",
+        "projectUniqueName": "H:\\DotNet-SA-Single\\CTS.DataAccess.Core\\CTS.DataAccess.Core.csproj",
         "projectName": "CTS.DataAccess.Core",
-        "projectPath": "H:\\SampleAPI-Net\\CTS.DataAccess.Core\\CTS.DataAccess.Core.csproj",
+        "projectPath": "H:\\DotNet-SA-Single\\CTS.DataAccess.Core\\CTS.DataAccess.Core.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "H:\\SampleAPI-Net\\CTS.DataAccess.Core\\obj\\",
+        "outputPath": "H:\\DotNet-SA-Single\\CTS.DataAccess.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
