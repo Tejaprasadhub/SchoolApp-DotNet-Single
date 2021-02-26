@@ -1,0 +1,58 @@
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.deps.json
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.pdb
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.AdminAPP\obj\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.AssemblyInfoInputs.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.AdminAPP\obj\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.AssemblyInfo.cs
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.AdminAPP\obj\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.AdminAPP\obj\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.pdb
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.AdminAPP\obj\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.csprojAssemblyReference.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.AdminAPP\obj\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.csproj.CoreCompileInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.deps.json
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.pdb
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.AdminAPP\obj\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.csprojAssemblyReference.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.AdminAPP\obj\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.AssemblyInfoInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.AdminAPP\obj\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.AssemblyInfo.cs
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.AdminAPP\obj\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.csproj.CoreCompileInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.AdminAPP\obj\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.AdminAPP\obj\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.pdb
+H:\CTSJProject-Net-API\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.deps.json
+H:\CTSJProject-Net-API\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.dll
+H:\CTSJProject-Net-API\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.pdb
+H:\CTSJProject-Net-API\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.Common.dll
+H:\CTSJProject-Net-API\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.Core.DataAccess.dll
+H:\CTSJProject-Net-API\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.Interface.dll
+H:\CTSJProject-Net-API\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.DataAccess.Core.dll
+H:\CTSJProject-Net-API\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.Model.dll
+H:\CTSJProject-Net-API\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.Common.pdb
+H:\CTSJProject-Net-API\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.Core.DataAccess.pdb
+H:\CTSJProject-Net-API\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.Interface.pdb
+H:\CTSJProject-Net-API\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.DataAccess.Core.pdb
+H:\CTSJProject-Net-API\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.Model.pdb
+H:\CTSJProject-Net-API\CTS.DataAccess.AdminAPP\obj\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.csprojAssemblyReference.cache
+H:\CTSJProject-Net-API\CTS.DataAccess.AdminAPP\obj\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.AssemblyInfoInputs.cache
+H:\CTSJProject-Net-API\CTS.DataAccess.AdminAPP\obj\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.AssemblyInfo.cs
+H:\CTSJProject-Net-API\CTS.DataAccess.AdminAPP\obj\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.csproj.CoreCompileInputs.cache
+H:\CTSJProject-Net-API\CTS.DataAccess.AdminAPP\obj\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.csproj.CopyComplete
+H:\CTSJProject-Net-API\CTS.DataAccess.AdminAPP\obj\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.dll
+H:\CTSJProject-Net-API\CTS.DataAccess.AdminAPP\obj\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.pdb
+H:\SampleAPI-Net\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.deps.json
+H:\SampleAPI-Net\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.dll
+H:\SampleAPI-Net\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.pdb
+H:\SampleAPI-Net\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.Common.dll
+H:\SampleAPI-Net\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.Core.DataAccess.dll
+H:\SampleAPI-Net\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.Interface.dll
+H:\SampleAPI-Net\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.DataAccess.Core.dll
+H:\SampleAPI-Net\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.Model.dll
+H:\SampleAPI-Net\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.Common.pdb
+H:\SampleAPI-Net\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.Core.DataAccess.pdb
+H:\SampleAPI-Net\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.Interface.pdb
+H:\SampleAPI-Net\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.DataAccess.Core.pdb
+H:\SampleAPI-Net\CTS.DataAccess.AdminAPP\bin\Debug\netstandard2.0\CTS.Model.pdb
+H:\SampleAPI-Net\CTS.DataAccess.AdminAPP\obj\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.csprojAssemblyReference.cache
+H:\SampleAPI-Net\CTS.DataAccess.AdminAPP\obj\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.AssemblyInfoInputs.cache
+H:\SampleAPI-Net\CTS.DataAccess.AdminAPP\obj\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.AssemblyInfo.cs
+H:\SampleAPI-Net\CTS.DataAccess.AdminAPP\obj\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.csproj.CoreCompileInputs.cache
+H:\SampleAPI-Net\CTS.DataAccess.AdminAPP\obj\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.csproj.CopyComplete
+H:\SampleAPI-Net\CTS.DataAccess.AdminAPP\obj\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.dll
+H:\SampleAPI-Net\CTS.DataAccess.AdminAPP\obj\Debug\netstandard2.0\CTS.DataAccess.AdminAPP.pdb

@@ -1,0 +1,9 @@
+H:\CTSJProject-Net-API\CTS.Business.ParentsAPP.Interface\bin\Release\netstandard2.0\CTS.Business.ParentsAPP.Interface.deps.json
+H:\CTSJProject-Net-API\CTS.Business.ParentsAPP.Interface\bin\Release\netstandard2.0\CTS.Business.ParentsAPP.Interface.dll
+H:\CTSJProject-Net-API\CTS.Business.ParentsAPP.Interface\bin\Release\netstandard2.0\CTS.Business.ParentsAPP.Interface.pdb
+H:\CTSJProject-Net-API\CTS.Business.ParentsAPP.Interface\obj\Release\netstandard2.0\CTS.Business.ParentsAPP.Interface.csprojAssemblyReference.cache
+H:\CTSJProject-Net-API\CTS.Business.ParentsAPP.Interface\obj\Release\netstandard2.0\CTS.Business.ParentsAPP.Interface.AssemblyInfoInputs.cache
+H:\CTSJProject-Net-API\CTS.Business.ParentsAPP.Interface\obj\Release\netstandard2.0\CTS.Business.ParentsAPP.Interface.AssemblyInfo.cs
+H:\CTSJProject-Net-API\CTS.Business.ParentsAPP.Interface\obj\Release\netstandard2.0\CTS.Business.ParentsAPP.Interface.csproj.CoreCompileInputs.cache
+H:\CTSJProject-Net-API\CTS.Business.ParentsAPP.Interface\obj\Release\netstandard2.0\CTS.Business.ParentsAPP.Interface.dll
+H:\CTSJProject-Net-API\CTS.Business.ParentsAPP.Interface\obj\Release\netstandard2.0\CTS.Business.ParentsAPP.Interface.pdb

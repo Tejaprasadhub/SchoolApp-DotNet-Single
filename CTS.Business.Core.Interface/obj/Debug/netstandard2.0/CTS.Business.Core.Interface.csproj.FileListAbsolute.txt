@@ -1,0 +1,33 @@
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core.Interface\bin\Debug\netstandard2.0\CTS.Business.Core.Interface.deps.json
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core.Interface\bin\Debug\netstandard2.0\CTS.Business.Core.Interface.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core.Interface\bin\Debug\netstandard2.0\CTS.Business.Core.Interface.pdb
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core.Interface\obj\Debug\netstandard2.0\CTS.Business.Core.Interface.AssemblyInfoInputs.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core.Interface\obj\Debug\netstandard2.0\CTS.Business.Core.Interface.AssemblyInfo.cs
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core.Interface\obj\Debug\netstandard2.0\CTS.Business.Core.Interface.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core.Interface\obj\Debug\netstandard2.0\CTS.Business.Core.Interface.pdb
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core.Interface\obj\Debug\netstandard2.0\CTS.Business.Core.Interface.csproj.CoreCompileInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core.Interface\bin\Debug\netstandard2.0\CTS.Business.Core.Interface.deps.json
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core.Interface\bin\Debug\netstandard2.0\CTS.Business.Core.Interface.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core.Interface\bin\Debug\netstandard2.0\CTS.Business.Core.Interface.pdb
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core.Interface\obj\Debug\netstandard2.0\CTS.Business.Core.Interface.csprojAssemblyReference.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core.Interface\obj\Debug\netstandard2.0\CTS.Business.Core.Interface.AssemblyInfoInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core.Interface\obj\Debug\netstandard2.0\CTS.Business.Core.Interface.AssemblyInfo.cs
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core.Interface\obj\Debug\netstandard2.0\CTS.Business.Core.Interface.csproj.CoreCompileInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core.Interface\obj\Debug\netstandard2.0\CTS.Business.Core.Interface.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core.Interface\obj\Debug\netstandard2.0\CTS.Business.Core.Interface.pdb
+H:\CTSJProject-Net-API\CTS.Business.Core.Interface\bin\Debug\netstandard2.0\CTS.Business.Core.Interface.deps.json
+H:\CTSJProject-Net-API\CTS.Business.Core.Interface\bin\Debug\netstandard2.0\CTS.Business.Core.Interface.dll
+H:\CTSJProject-Net-API\CTS.Business.Core.Interface\bin\Debug\netstandard2.0\CTS.Business.Core.Interface.pdb
+H:\CTSJProject-Net-API\CTS.Business.Core.Interface\obj\Debug\netstandard2.0\CTS.Business.Core.Interface.AssemblyInfoInputs.cache
+H:\CTSJProject-Net-API\CTS.Business.Core.Interface\obj\Debug\netstandard2.0\CTS.Business.Core.Interface.AssemblyInfo.cs
+H:\CTSJProject-Net-API\CTS.Business.Core.Interface\obj\Debug\netstandard2.0\CTS.Business.Core.Interface.csproj.CoreCompileInputs.cache
+H:\CTSJProject-Net-API\CTS.Business.Core.Interface\obj\Debug\netstandard2.0\CTS.Business.Core.Interface.dll
+H:\CTSJProject-Net-API\CTS.Business.Core.Interface\obj\Debug\netstandard2.0\CTS.Business.Core.Interface.pdb
+H:\SampleAPI-Net\CTS.Business.Core.Interface\bin\Debug\netstandard2.0\CTS.Business.Core.Interface.deps.json
+H:\SampleAPI-Net\CTS.Business.Core.Interface\bin\Debug\netstandard2.0\CTS.Business.Core.Interface.dll
+H:\SampleAPI-Net\CTS.Business.Core.Interface\bin\Debug\netstandard2.0\CTS.Business.Core.Interface.pdb
+H:\SampleAPI-Net\CTS.Business.Core.Interface\obj\Debug\netstandard2.0\CTS.Business.Core.Interface.AssemblyInfoInputs.cache
+H:\SampleAPI-Net\CTS.Business.Core.Interface\obj\Debug\netstandard2.0\CTS.Business.Core.Interface.AssemblyInfo.cs
+H:\SampleAPI-Net\CTS.Business.Core.Interface\obj\Debug\netstandard2.0\CTS.Business.Core.Interface.csproj.CoreCompileInputs.cache
+H:\SampleAPI-Net\CTS.Business.Core.Interface\obj\Debug\netstandard2.0\CTS.Business.Core.Interface.dll
+H:\SampleAPI-Net\CTS.Business.Core.Interface\obj\Debug\netstandard2.0\CTS.Business.Core.Interface.pdb

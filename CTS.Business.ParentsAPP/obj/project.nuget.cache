@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GGoys8O0OMM1umDqQs0iFXNZjA4G4n+00T0aVNChnlxz3biXlMmoEQyoN8kTth6AjNIUKKTCjz5jEvry0ortIg==",
+  "success": true,
+  "projectFilePath": "H:\\SampleAPI-Net\\CTS.Business.ParentsAPP\\CTS.Business.ParentsAPP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

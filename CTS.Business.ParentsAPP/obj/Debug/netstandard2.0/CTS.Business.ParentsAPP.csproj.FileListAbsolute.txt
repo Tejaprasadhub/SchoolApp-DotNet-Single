@@ -1,0 +1,33 @@
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.ParentsAPP\bin\Debug\netstandard2.0\CTS.Business.ParentsAPP.deps.json
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.ParentsAPP\bin\Debug\netstandard2.0\CTS.Business.ParentsAPP.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.ParentsAPP\bin\Debug\netstandard2.0\CTS.Business.ParentsAPP.pdb
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.ParentsAPP\obj\Debug\netstandard2.0\CTS.Business.ParentsAPP.AssemblyInfoInputs.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.ParentsAPP\obj\Debug\netstandard2.0\CTS.Business.ParentsAPP.AssemblyInfo.cs
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.ParentsAPP\obj\Debug\netstandard2.0\CTS.Business.ParentsAPP.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.ParentsAPP\obj\Debug\netstandard2.0\CTS.Business.ParentsAPP.pdb
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.ParentsAPP\obj\Debug\netstandard2.0\CTS.Business.ParentsAPP.csproj.CoreCompileInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.ParentsAPP\bin\Debug\netstandard2.0\CTS.Business.ParentsAPP.deps.json
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.ParentsAPP\bin\Debug\netstandard2.0\CTS.Business.ParentsAPP.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.ParentsAPP\bin\Debug\netstandard2.0\CTS.Business.ParentsAPP.pdb
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.ParentsAPP\obj\Debug\netstandard2.0\CTS.Business.ParentsAPP.AssemblyInfoInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.ParentsAPP\obj\Debug\netstandard2.0\CTS.Business.ParentsAPP.AssemblyInfo.cs
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.ParentsAPP\obj\Debug\netstandard2.0\CTS.Business.ParentsAPP.csproj.CoreCompileInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.ParentsAPP\obj\Debug\netstandard2.0\CTS.Business.ParentsAPP.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.ParentsAPP\obj\Debug\netstandard2.0\CTS.Business.ParentsAPP.pdb
+H:\CTSJProject-Net-API\CTS.Business.ParentsAPP\bin\Debug\netstandard2.0\CTS.Business.ParentsAPP.deps.json
+H:\CTSJProject-Net-API\CTS.Business.ParentsAPP\bin\Debug\netstandard2.0\CTS.Business.ParentsAPP.dll
+H:\CTSJProject-Net-API\CTS.Business.ParentsAPP\bin\Debug\netstandard2.0\CTS.Business.ParentsAPP.pdb
+H:\CTSJProject-Net-API\CTS.Business.ParentsAPP\obj\Debug\netstandard2.0\CTS.Business.ParentsAPP.AssemblyInfoInputs.cache
+H:\CTSJProject-Net-API\CTS.Business.ParentsAPP\obj\Debug\netstandard2.0\CTS.Business.ParentsAPP.AssemblyInfo.cs
+H:\CTSJProject-Net-API\CTS.Business.ParentsAPP\obj\Debug\netstandard2.0\CTS.Business.ParentsAPP.csproj.CoreCompileInputs.cache
+H:\CTSJProject-Net-API\CTS.Business.ParentsAPP\obj\Debug\netstandard2.0\CTS.Business.ParentsAPP.dll
+H:\CTSJProject-Net-API\CTS.Business.ParentsAPP\obj\Debug\netstandard2.0\CTS.Business.ParentsAPP.pdb
+H:\SampleAPI-Net\CTS.Business.ParentsAPP\bin\Debug\netstandard2.0\CTS.Business.ParentsAPP.deps.json
+H:\SampleAPI-Net\CTS.Business.ParentsAPP\bin\Debug\netstandard2.0\CTS.Business.ParentsAPP.dll
+H:\SampleAPI-Net\CTS.Business.ParentsAPP\bin\Debug\netstandard2.0\CTS.Business.ParentsAPP.pdb
+H:\SampleAPI-Net\CTS.Business.ParentsAPP\obj\Debug\netstandard2.0\CTS.Business.ParentsAPP.AssemblyInfoInputs.cache
+H:\SampleAPI-Net\CTS.Business.ParentsAPP\obj\Debug\netstandard2.0\CTS.Business.ParentsAPP.AssemblyInfo.cs
+H:\SampleAPI-Net\CTS.Business.ParentsAPP\obj\Debug\netstandard2.0\CTS.Business.ParentsAPP.csproj.CoreCompileInputs.cache
+H:\SampleAPI-Net\CTS.Business.ParentsAPP\obj\Debug\netstandard2.0\CTS.Business.ParentsAPP.dll
+H:\SampleAPI-Net\CTS.Business.ParentsAPP\obj\Debug\netstandard2.0\CTS.Business.ParentsAPP.pdb
+H:\SampleAPI-Net\CTS.Business.ParentsAPP\obj\Debug\netstandard2.0\CTS.Business.ParentsAPP.csprojAssemblyReference.cache

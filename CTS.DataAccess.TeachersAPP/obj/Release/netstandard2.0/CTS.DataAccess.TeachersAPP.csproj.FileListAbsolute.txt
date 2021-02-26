@@ -1,0 +1,8 @@
+H:\CTSJProject-Net-API\CTS.DataAccess.TeachersAPP\bin\Release\netstandard2.0\CTS.DataAccess.TeachersAPP.deps.json
+H:\CTSJProject-Net-API\CTS.DataAccess.TeachersAPP\bin\Release\netstandard2.0\CTS.DataAccess.TeachersAPP.dll
+H:\CTSJProject-Net-API\CTS.DataAccess.TeachersAPP\bin\Release\netstandard2.0\CTS.DataAccess.TeachersAPP.pdb
+H:\CTSJProject-Net-API\CTS.DataAccess.TeachersAPP\obj\Release\netstandard2.0\CTS.DataAccess.TeachersAPP.AssemblyInfoInputs.cache
+H:\CTSJProject-Net-API\CTS.DataAccess.TeachersAPP\obj\Release\netstandard2.0\CTS.DataAccess.TeachersAPP.AssemblyInfo.cs
+H:\CTSJProject-Net-API\CTS.DataAccess.TeachersAPP\obj\Release\netstandard2.0\CTS.DataAccess.TeachersAPP.csproj.CoreCompileInputs.cache
+H:\CTSJProject-Net-API\CTS.DataAccess.TeachersAPP\obj\Release\netstandard2.0\CTS.DataAccess.TeachersAPP.dll
+H:\CTSJProject-Net-API\CTS.DataAccess.TeachersAPP\obj\Release\netstandard2.0\CTS.DataAccess.TeachersAPP.pdb

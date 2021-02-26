@@ -1,0 +1,35 @@
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.Core\bin\Debug\netstandard2.0\CTS.DataAccess.Core.deps.json
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.Core\bin\Debug\netstandard2.0\CTS.DataAccess.Core.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.Core\bin\Debug\netstandard2.0\CTS.DataAccess.Core.pdb
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.Core\obj\Debug\netstandard2.0\CTS.DataAccess.Core.AssemblyInfoInputs.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.Core\obj\Debug\netstandard2.0\CTS.DataAccess.Core.AssemblyInfo.cs
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.Core\obj\Debug\netstandard2.0\CTS.DataAccess.Core.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.Core\obj\Debug\netstandard2.0\CTS.DataAccess.Core.pdb
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.Core\obj\Debug\netstandard2.0\CTS.DataAccess.Core.csprojAssemblyReference.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.Core\obj\Debug\netstandard2.0\CTS.DataAccess.Core.csproj.CoreCompileInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.Core\bin\Debug\netstandard2.0\CTS.DataAccess.Core.deps.json
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.Core\bin\Debug\netstandard2.0\CTS.DataAccess.Core.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.Core\bin\Debug\netstandard2.0\CTS.DataAccess.Core.pdb
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.Core\obj\Debug\netstandard2.0\CTS.DataAccess.Core.csprojAssemblyReference.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.Core\obj\Debug\netstandard2.0\CTS.DataAccess.Core.AssemblyInfoInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.Core\obj\Debug\netstandard2.0\CTS.DataAccess.Core.AssemblyInfo.cs
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.Core\obj\Debug\netstandard2.0\CTS.DataAccess.Core.csproj.CoreCompileInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.Core\obj\Debug\netstandard2.0\CTS.DataAccess.Core.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.Core\obj\Debug\netstandard2.0\CTS.DataAccess.Core.pdb
+H:\CTSJProject-Net-API\CTS.DataAccess.Core\bin\Debug\netstandard2.0\CTS.DataAccess.Core.deps.json
+H:\CTSJProject-Net-API\CTS.DataAccess.Core\bin\Debug\netstandard2.0\CTS.DataAccess.Core.dll
+H:\CTSJProject-Net-API\CTS.DataAccess.Core\bin\Debug\netstandard2.0\CTS.DataAccess.Core.pdb
+H:\CTSJProject-Net-API\CTS.DataAccess.Core\obj\Debug\netstandard2.0\CTS.DataAccess.Core.csprojAssemblyReference.cache
+H:\CTSJProject-Net-API\CTS.DataAccess.Core\obj\Debug\netstandard2.0\CTS.DataAccess.Core.AssemblyInfoInputs.cache
+H:\CTSJProject-Net-API\CTS.DataAccess.Core\obj\Debug\netstandard2.0\CTS.DataAccess.Core.AssemblyInfo.cs
+H:\CTSJProject-Net-API\CTS.DataAccess.Core\obj\Debug\netstandard2.0\CTS.DataAccess.Core.csproj.CoreCompileInputs.cache
+H:\CTSJProject-Net-API\CTS.DataAccess.Core\obj\Debug\netstandard2.0\CTS.DataAccess.Core.dll
+H:\CTSJProject-Net-API\CTS.DataAccess.Core\obj\Debug\netstandard2.0\CTS.DataAccess.Core.pdb
+H:\SampleAPI-Net\CTS.DataAccess.Core\bin\Debug\netstandard2.0\CTS.DataAccess.Core.deps.json
+H:\SampleAPI-Net\CTS.DataAccess.Core\bin\Debug\netstandard2.0\CTS.DataAccess.Core.dll
+H:\SampleAPI-Net\CTS.DataAccess.Core\bin\Debug\netstandard2.0\CTS.DataAccess.Core.pdb
+H:\SampleAPI-Net\CTS.DataAccess.Core\obj\Debug\netstandard2.0\CTS.DataAccess.Core.AssemblyInfoInputs.cache
+H:\SampleAPI-Net\CTS.DataAccess.Core\obj\Debug\netstandard2.0\CTS.DataAccess.Core.AssemblyInfo.cs
+H:\SampleAPI-Net\CTS.DataAccess.Core\obj\Debug\netstandard2.0\CTS.DataAccess.Core.csproj.CoreCompileInputs.cache
+H:\SampleAPI-Net\CTS.DataAccess.Core\obj\Debug\netstandard2.0\CTS.DataAccess.Core.dll
+H:\SampleAPI-Net\CTS.DataAccess.Core\obj\Debug\netstandard2.0\CTS.DataAccess.Core.pdb

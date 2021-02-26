@@ -1,0 +1,33 @@
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP\bin\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.deps.json
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP\bin\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP\bin\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.pdb
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.AssemblyInfoInputs.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.AssemblyInfo.cs
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.pdb
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.csproj.CoreCompileInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP\bin\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.deps.json
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP\bin\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP\bin\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.pdb
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.csprojAssemblyReference.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.AssemblyInfoInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.AssemblyInfo.cs
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.csproj.CoreCompileInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.pdb
+H:\CTSJProject-Net-API\CTS.DataAccess.ParentsAPP\bin\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.deps.json
+H:\CTSJProject-Net-API\CTS.DataAccess.ParentsAPP\bin\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.dll
+H:\CTSJProject-Net-API\CTS.DataAccess.ParentsAPP\bin\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.pdb
+H:\CTSJProject-Net-API\CTS.DataAccess.ParentsAPP\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.AssemblyInfoInputs.cache
+H:\CTSJProject-Net-API\CTS.DataAccess.ParentsAPP\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.AssemblyInfo.cs
+H:\CTSJProject-Net-API\CTS.DataAccess.ParentsAPP\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.csproj.CoreCompileInputs.cache
+H:\CTSJProject-Net-API\CTS.DataAccess.ParentsAPP\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.dll
+H:\CTSJProject-Net-API\CTS.DataAccess.ParentsAPP\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.pdb
+H:\SampleAPI-Net\CTS.DataAccess.ParentsAPP\bin\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.deps.json
+H:\SampleAPI-Net\CTS.DataAccess.ParentsAPP\bin\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.dll
+H:\SampleAPI-Net\CTS.DataAccess.ParentsAPP\bin\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.pdb
+H:\SampleAPI-Net\CTS.DataAccess.ParentsAPP\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.AssemblyInfoInputs.cache
+H:\SampleAPI-Net\CTS.DataAccess.ParentsAPP\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.AssemblyInfo.cs
+H:\SampleAPI-Net\CTS.DataAccess.ParentsAPP\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.csproj.CoreCompileInputs.cache
+H:\SampleAPI-Net\CTS.DataAccess.ParentsAPP\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.dll
+H:\SampleAPI-Net\CTS.DataAccess.ParentsAPP\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.pdb

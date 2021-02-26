@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j2Ven6p9JjUsUynyoIepvDea09smx6FoQnJxfQ+sbcANR8ieXped4gegTLI6GiNiXQZaTqBILMlNSGz4ygC9PQ==",
+  "success": true,
+  "projectFilePath": "H:\\SampleAPI-Net\\CTS.API.ParentsAPP\\CTS.API.ParentsAPP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

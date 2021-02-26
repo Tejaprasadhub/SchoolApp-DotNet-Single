@@ -1,0 +1,8 @@
+H:\CTSJProject-Net-API\CTS.DataAccess.Core.Interface\bin\Release\netstandard2.0\CTS.DataAccess.Core.Interface.deps.json
+H:\CTSJProject-Net-API\CTS.DataAccess.Core.Interface\bin\Release\netstandard2.0\CTS.DataAccess.Core.Interface.dll
+H:\CTSJProject-Net-API\CTS.DataAccess.Core.Interface\bin\Release\netstandard2.0\CTS.DataAccess.Core.Interface.pdb
+H:\CTSJProject-Net-API\CTS.DataAccess.Core.Interface\obj\Release\netstandard2.0\CTS.DataAccess.Core.Interface.AssemblyInfoInputs.cache
+H:\CTSJProject-Net-API\CTS.DataAccess.Core.Interface\obj\Release\netstandard2.0\CTS.DataAccess.Core.Interface.AssemblyInfo.cs
+H:\CTSJProject-Net-API\CTS.DataAccess.Core.Interface\obj\Release\netstandard2.0\CTS.DataAccess.Core.Interface.csproj.CoreCompileInputs.cache
+H:\CTSJProject-Net-API\CTS.DataAccess.Core.Interface\obj\Release\netstandard2.0\CTS.DataAccess.Core.Interface.dll
+H:\CTSJProject-Net-API\CTS.DataAccess.Core.Interface\obj\Release\netstandard2.0\CTS.DataAccess.Core.Interface.pdb

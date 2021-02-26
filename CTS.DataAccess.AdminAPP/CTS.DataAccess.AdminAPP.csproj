@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CTS.Common\CTS.Common.csproj" />
+    <ProjectReference Include="..\CTS.Core.DataAccess\CTS.Core.DataAccess.csproj" />
+    <ProjectReference Include="..\CTS.DataAccess.AdminAPP.Interface\CTS.DataAccess.AdminAPP.Interface.csproj" />
+    <ProjectReference Include="..\CTS.DataAccess.Core\CTS.DataAccess.Core.csproj" />
+  </ItemGroup>
+
+</Project>

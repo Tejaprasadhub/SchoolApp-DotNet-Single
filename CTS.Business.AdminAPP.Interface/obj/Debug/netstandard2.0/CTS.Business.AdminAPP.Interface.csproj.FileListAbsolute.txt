@@ -1,0 +1,54 @@
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.AdminAPP.Interface\bin\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.deps.json
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.AdminAPP.Interface\bin\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.AdminAPP.Interface\bin\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.pdb
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.AdminAPP.Interface\obj\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.AssemblyInfoInputs.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.AdminAPP.Interface\obj\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.AssemblyInfo.cs
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.AdminAPP.Interface\obj\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.AdminAPP.Interface\obj\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.pdb
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.AdminAPP.Interface\obj\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.csprojAssemblyReference.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.AdminAPP.Interface\obj\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.csproj.CoreCompileInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.AdminAPP.Interface\bin\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.deps.json
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.AdminAPP.Interface\bin\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.AdminAPP.Interface\bin\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.pdb
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.AdminAPP.Interface\obj\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.csprojAssemblyReference.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.AdminAPP.Interface\obj\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.AssemblyInfoInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.AdminAPP.Interface\obj\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.AssemblyInfo.cs
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.AdminAPP.Interface\obj\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.csproj.CoreCompileInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.AdminAPP.Interface\obj\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.AdminAPP.Interface\obj\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.pdb
+H:\CTSJProject-Net-API\CTS.Business.AdminAPP.Interface\bin\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.deps.json
+H:\CTSJProject-Net-API\CTS.Business.AdminAPP.Interface\bin\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.dll
+H:\CTSJProject-Net-API\CTS.Business.AdminAPP.Interface\bin\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.pdb
+H:\CTSJProject-Net-API\CTS.Business.AdminAPP.Interface\bin\Debug\netstandard2.0\CTS.Common.dll
+H:\CTSJProject-Net-API\CTS.Business.AdminAPP.Interface\bin\Debug\netstandard2.0\CTS.Core.DataAccess.dll
+H:\CTSJProject-Net-API\CTS.Business.AdminAPP.Interface\bin\Debug\netstandard2.0\CTS.DataAccess.Core.dll
+H:\CTSJProject-Net-API\CTS.Business.AdminAPP.Interface\bin\Debug\netstandard2.0\CTS.Model.dll
+H:\CTSJProject-Net-API\CTS.Business.AdminAPP.Interface\bin\Debug\netstandard2.0\CTS.Common.pdb
+H:\CTSJProject-Net-API\CTS.Business.AdminAPP.Interface\bin\Debug\netstandard2.0\CTS.Model.pdb
+H:\CTSJProject-Net-API\CTS.Business.AdminAPP.Interface\bin\Debug\netstandard2.0\CTS.Core.DataAccess.pdb
+H:\CTSJProject-Net-API\CTS.Business.AdminAPP.Interface\bin\Debug\netstandard2.0\CTS.DataAccess.Core.pdb
+H:\CTSJProject-Net-API\CTS.Business.AdminAPP.Interface\obj\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.csprojAssemblyReference.cache
+H:\CTSJProject-Net-API\CTS.Business.AdminAPP.Interface\obj\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.AssemblyInfoInputs.cache
+H:\CTSJProject-Net-API\CTS.Business.AdminAPP.Interface\obj\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.AssemblyInfo.cs
+H:\CTSJProject-Net-API\CTS.Business.AdminAPP.Interface\obj\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.csproj.CoreCompileInputs.cache
+H:\CTSJProject-Net-API\CTS.Business.AdminAPP.Interface\obj\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.csproj.CopyComplete
+H:\CTSJProject-Net-API\CTS.Business.AdminAPP.Interface\obj\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.dll
+H:\CTSJProject-Net-API\CTS.Business.AdminAPP.Interface\obj\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.pdb
+H:\SampleAPI-Net\CTS.Business.AdminAPP.Interface\bin\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.deps.json
+H:\SampleAPI-Net\CTS.Business.AdminAPP.Interface\bin\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.dll
+H:\SampleAPI-Net\CTS.Business.AdminAPP.Interface\bin\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.pdb
+H:\SampleAPI-Net\CTS.Business.AdminAPP.Interface\bin\Debug\netstandard2.0\CTS.Common.dll
+H:\SampleAPI-Net\CTS.Business.AdminAPP.Interface\bin\Debug\netstandard2.0\CTS.Core.DataAccess.dll
+H:\SampleAPI-Net\CTS.Business.AdminAPP.Interface\bin\Debug\netstandard2.0\CTS.DataAccess.Core.dll
+H:\SampleAPI-Net\CTS.Business.AdminAPP.Interface\bin\Debug\netstandard2.0\CTS.Model.dll
+H:\SampleAPI-Net\CTS.Business.AdminAPP.Interface\bin\Debug\netstandard2.0\CTS.Common.pdb
+H:\SampleAPI-Net\CTS.Business.AdminAPP.Interface\bin\Debug\netstandard2.0\CTS.Model.pdb
+H:\SampleAPI-Net\CTS.Business.AdminAPP.Interface\bin\Debug\netstandard2.0\CTS.Core.DataAccess.pdb
+H:\SampleAPI-Net\CTS.Business.AdminAPP.Interface\bin\Debug\netstandard2.0\CTS.DataAccess.Core.pdb
+H:\SampleAPI-Net\CTS.Business.AdminAPP.Interface\obj\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.csprojAssemblyReference.cache
+H:\SampleAPI-Net\CTS.Business.AdminAPP.Interface\obj\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.AssemblyInfoInputs.cache
+H:\SampleAPI-Net\CTS.Business.AdminAPP.Interface\obj\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.AssemblyInfo.cs
+H:\SampleAPI-Net\CTS.Business.AdminAPP.Interface\obj\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.csproj.CoreCompileInputs.cache
+H:\SampleAPI-Net\CTS.Business.AdminAPP.Interface\obj\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.csproj.CopyComplete
+H:\SampleAPI-Net\CTS.Business.AdminAPP.Interface\obj\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.dll
+H:\SampleAPI-Net\CTS.Business.AdminAPP.Interface\obj\Debug\netstandard2.0\CTS.Business.AdminAPP.Interface.pdb

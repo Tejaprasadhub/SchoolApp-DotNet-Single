@@ -1,0 +1,8 @@
+H:\CTSJProject-Net-API\CTS.Business.TeachersAPP\bin\Release\netstandard2.0\CTS.Business.TeachersAPP.deps.json
+H:\CTSJProject-Net-API\CTS.Business.TeachersAPP\bin\Release\netstandard2.0\CTS.Business.TeachersAPP.dll
+H:\CTSJProject-Net-API\CTS.Business.TeachersAPP\bin\Release\netstandard2.0\CTS.Business.TeachersAPP.pdb
+H:\CTSJProject-Net-API\CTS.Business.TeachersAPP\obj\Release\netstandard2.0\CTS.Business.TeachersAPP.AssemblyInfoInputs.cache
+H:\CTSJProject-Net-API\CTS.Business.TeachersAPP\obj\Release\netstandard2.0\CTS.Business.TeachersAPP.AssemblyInfo.cs
+H:\CTSJProject-Net-API\CTS.Business.TeachersAPP\obj\Release\netstandard2.0\CTS.Business.TeachersAPP.csproj.CoreCompileInputs.cache
+H:\CTSJProject-Net-API\CTS.Business.TeachersAPP\obj\Release\netstandard2.0\CTS.Business.TeachersAPP.dll
+H:\CTSJProject-Net-API\CTS.Business.TeachersAPP\obj\Release\netstandard2.0\CTS.Business.TeachersAPP.pdb

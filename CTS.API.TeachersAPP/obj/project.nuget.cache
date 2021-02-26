@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tbyq4Z5+j3nujDxCN8UgcVaXuT90QhiCj3qVMdO923WUkgHELQ+LiqjjL+JX5FW7Ktg7SghRS9msI6AT++tZCw==",
+  "success": true,
+  "projectFilePath": "H:\\SampleAPI-Net\\CTS.API.TeachersAPP\\CTS.API.TeachersAPP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

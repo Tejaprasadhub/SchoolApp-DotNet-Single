@@ -1,0 +1,8 @@
+H:\CTSJProject-Net-API\CTS.DataAccess.ParentsAPP\bin\Release\netstandard2.0\CTS.DataAccess.ParentsAPP.deps.json
+H:\CTSJProject-Net-API\CTS.DataAccess.ParentsAPP\bin\Release\netstandard2.0\CTS.DataAccess.ParentsAPP.dll
+H:\CTSJProject-Net-API\CTS.DataAccess.ParentsAPP\bin\Release\netstandard2.0\CTS.DataAccess.ParentsAPP.pdb
+H:\CTSJProject-Net-API\CTS.DataAccess.ParentsAPP\obj\Release\netstandard2.0\CTS.DataAccess.ParentsAPP.AssemblyInfoInputs.cache
+H:\CTSJProject-Net-API\CTS.DataAccess.ParentsAPP\obj\Release\netstandard2.0\CTS.DataAccess.ParentsAPP.AssemblyInfo.cs
+H:\CTSJProject-Net-API\CTS.DataAccess.ParentsAPP\obj\Release\netstandard2.0\CTS.DataAccess.ParentsAPP.csproj.CoreCompileInputs.cache
+H:\CTSJProject-Net-API\CTS.DataAccess.ParentsAPP\obj\Release\netstandard2.0\CTS.DataAccess.ParentsAPP.dll
+H:\CTSJProject-Net-API\CTS.DataAccess.ParentsAPP\obj\Release\netstandard2.0\CTS.DataAccess.ParentsAPP.pdb

@@ -1,0 +1,18 @@
+{
+
+  "CrossOrigin": {
+    "Allow": true,
+    "AllowedOrigins": "http://localhost:4200"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Debug",
+      "Microsoft": "Erroe",
+      "ApplicationType": "CTSAPI"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "cts_common": "server=localhost;user=root;password=root;database=ctc_common_database;port=3306"
+  }
+}

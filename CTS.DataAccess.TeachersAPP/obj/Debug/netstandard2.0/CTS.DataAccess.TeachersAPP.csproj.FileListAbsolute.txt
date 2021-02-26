@@ -1,0 +1,33 @@
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.TeachersAPP\bin\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.deps.json
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.TeachersAPP\bin\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.TeachersAPP\bin\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.pdb
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.TeachersAPP\obj\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.AssemblyInfoInputs.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.TeachersAPP\obj\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.AssemblyInfo.cs
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.TeachersAPP\obj\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.TeachersAPP\obj\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.pdb
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.TeachersAPP\obj\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.csproj.CoreCompileInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.TeachersAPP\bin\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.deps.json
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.TeachersAPP\bin\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.TeachersAPP\bin\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.pdb
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.TeachersAPP\obj\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.csprojAssemblyReference.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.TeachersAPP\obj\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.AssemblyInfoInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.TeachersAPP\obj\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.AssemblyInfo.cs
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.TeachersAPP\obj\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.csproj.CoreCompileInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.TeachersAPP\obj\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.TeachersAPP\obj\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.pdb
+H:\CTSJProject-Net-API\CTS.DataAccess.TeachersAPP\bin\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.deps.json
+H:\CTSJProject-Net-API\CTS.DataAccess.TeachersAPP\bin\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.dll
+H:\CTSJProject-Net-API\CTS.DataAccess.TeachersAPP\bin\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.pdb
+H:\CTSJProject-Net-API\CTS.DataAccess.TeachersAPP\obj\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.AssemblyInfoInputs.cache
+H:\CTSJProject-Net-API\CTS.DataAccess.TeachersAPP\obj\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.AssemblyInfo.cs
+H:\CTSJProject-Net-API\CTS.DataAccess.TeachersAPP\obj\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.csproj.CoreCompileInputs.cache
+H:\CTSJProject-Net-API\CTS.DataAccess.TeachersAPP\obj\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.dll
+H:\CTSJProject-Net-API\CTS.DataAccess.TeachersAPP\obj\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.pdb
+H:\SampleAPI-Net\CTS.DataAccess.TeachersAPP\bin\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.deps.json
+H:\SampleAPI-Net\CTS.DataAccess.TeachersAPP\bin\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.dll
+H:\SampleAPI-Net\CTS.DataAccess.TeachersAPP\bin\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.pdb
+H:\SampleAPI-Net\CTS.DataAccess.TeachersAPP\obj\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.AssemblyInfoInputs.cache
+H:\SampleAPI-Net\CTS.DataAccess.TeachersAPP\obj\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.AssemblyInfo.cs
+H:\SampleAPI-Net\CTS.DataAccess.TeachersAPP\obj\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.csproj.CoreCompileInputs.cache
+H:\SampleAPI-Net\CTS.DataAccess.TeachersAPP\obj\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.dll
+H:\SampleAPI-Net\CTS.DataAccess.TeachersAPP\obj\Debug\netstandard2.0\CTS.DataAccess.TeachersAPP.pdb

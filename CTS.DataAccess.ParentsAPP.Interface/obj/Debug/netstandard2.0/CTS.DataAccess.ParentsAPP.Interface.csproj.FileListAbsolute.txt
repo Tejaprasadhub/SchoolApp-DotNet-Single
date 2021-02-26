@@ -1,0 +1,33 @@
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP.Interface\bin\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.deps.json
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP.Interface\bin\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP.Interface\bin\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.pdb
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP.Interface\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.AssemblyInfoInputs.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP.Interface\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.AssemblyInfo.cs
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP.Interface\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP.Interface\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.pdb
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP.Interface\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.csproj.CoreCompileInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP.Interface\bin\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.deps.json
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP.Interface\bin\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP.Interface\bin\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.pdb
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP.Interface\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.AssemblyInfoInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP.Interface\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.AssemblyInfo.cs
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP.Interface\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.csproj.CoreCompileInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP.Interface\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.DataAccess.ParentsAPP.Interface\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.pdb
+H:\CTSJProject-Net-API\CTS.DataAccess.ParentsAPP.Interface\bin\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.deps.json
+H:\CTSJProject-Net-API\CTS.DataAccess.ParentsAPP.Interface\bin\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.dll
+H:\CTSJProject-Net-API\CTS.DataAccess.ParentsAPP.Interface\bin\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.pdb
+H:\CTSJProject-Net-API\CTS.DataAccess.ParentsAPP.Interface\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.csprojAssemblyReference.cache
+H:\CTSJProject-Net-API\CTS.DataAccess.ParentsAPP.Interface\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.AssemblyInfoInputs.cache
+H:\CTSJProject-Net-API\CTS.DataAccess.ParentsAPP.Interface\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.AssemblyInfo.cs
+H:\CTSJProject-Net-API\CTS.DataAccess.ParentsAPP.Interface\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.csproj.CoreCompileInputs.cache
+H:\CTSJProject-Net-API\CTS.DataAccess.ParentsAPP.Interface\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.dll
+H:\CTSJProject-Net-API\CTS.DataAccess.ParentsAPP.Interface\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.pdb
+H:\SampleAPI-Net\CTS.DataAccess.ParentsAPP.Interface\bin\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.deps.json
+H:\SampleAPI-Net\CTS.DataAccess.ParentsAPP.Interface\bin\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.dll
+H:\SampleAPI-Net\CTS.DataAccess.ParentsAPP.Interface\bin\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.pdb
+H:\SampleAPI-Net\CTS.DataAccess.ParentsAPP.Interface\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.AssemblyInfoInputs.cache
+H:\SampleAPI-Net\CTS.DataAccess.ParentsAPP.Interface\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.AssemblyInfo.cs
+H:\SampleAPI-Net\CTS.DataAccess.ParentsAPP.Interface\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.csproj.CoreCompileInputs.cache
+H:\SampleAPI-Net\CTS.DataAccess.ParentsAPP.Interface\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.dll
+H:\SampleAPI-Net\CTS.DataAccess.ParentsAPP.Interface\obj\Debug\netstandard2.0\CTS.DataAccess.ParentsAPP.Interface.pdb

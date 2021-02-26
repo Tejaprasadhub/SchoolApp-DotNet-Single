@@ -1,0 +1,34 @@
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.TeachersAPP\bin\Debug\netstandard2.0\CTS.Business.TeachersAPP.deps.json
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.TeachersAPP\bin\Debug\netstandard2.0\CTS.Business.TeachersAPP.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.TeachersAPP\bin\Debug\netstandard2.0\CTS.Business.TeachersAPP.pdb
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.TeachersAPP\obj\Debug\netstandard2.0\CTS.Business.TeachersAPP.AssemblyInfoInputs.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.TeachersAPP\obj\Debug\netstandard2.0\CTS.Business.TeachersAPP.AssemblyInfo.cs
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.TeachersAPP\obj\Debug\netstandard2.0\CTS.Business.TeachersAPP.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.TeachersAPP\obj\Debug\netstandard2.0\CTS.Business.TeachersAPP.pdb
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.TeachersAPP\obj\Debug\netstandard2.0\CTS.Business.TeachersAPP.csproj.CoreCompileInputs.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.TeachersAPP\obj\Debug\netstandard2.0\CTS.Business.TeachersAPP.csprojAssemblyReference.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.TeachersAPP\bin\Debug\netstandard2.0\CTS.Business.TeachersAPP.deps.json
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.TeachersAPP\bin\Debug\netstandard2.0\CTS.Business.TeachersAPP.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.TeachersAPP\bin\Debug\netstandard2.0\CTS.Business.TeachersAPP.pdb
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.TeachersAPP\obj\Debug\netstandard2.0\CTS.Business.TeachersAPP.csprojAssemblyReference.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.TeachersAPP\obj\Debug\netstandard2.0\CTS.Business.TeachersAPP.AssemblyInfoInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.TeachersAPP\obj\Debug\netstandard2.0\CTS.Business.TeachersAPP.AssemblyInfo.cs
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.TeachersAPP\obj\Debug\netstandard2.0\CTS.Business.TeachersAPP.csproj.CoreCompileInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.TeachersAPP\obj\Debug\netstandard2.0\CTS.Business.TeachersAPP.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.TeachersAPP\obj\Debug\netstandard2.0\CTS.Business.TeachersAPP.pdb
+H:\CTSJProject-Net-API\CTS.Business.TeachersAPP\bin\Debug\netstandard2.0\CTS.Business.TeachersAPP.deps.json
+H:\CTSJProject-Net-API\CTS.Business.TeachersAPP\bin\Debug\netstandard2.0\CTS.Business.TeachersAPP.dll
+H:\CTSJProject-Net-API\CTS.Business.TeachersAPP\bin\Debug\netstandard2.0\CTS.Business.TeachersAPP.pdb
+H:\CTSJProject-Net-API\CTS.Business.TeachersAPP\obj\Debug\netstandard2.0\CTS.Business.TeachersAPP.AssemblyInfoInputs.cache
+H:\CTSJProject-Net-API\CTS.Business.TeachersAPP\obj\Debug\netstandard2.0\CTS.Business.TeachersAPP.AssemblyInfo.cs
+H:\CTSJProject-Net-API\CTS.Business.TeachersAPP\obj\Debug\netstandard2.0\CTS.Business.TeachersAPP.csproj.CoreCompileInputs.cache
+H:\CTSJProject-Net-API\CTS.Business.TeachersAPP\obj\Debug\netstandard2.0\CTS.Business.TeachersAPP.dll
+H:\CTSJProject-Net-API\CTS.Business.TeachersAPP\obj\Debug\netstandard2.0\CTS.Business.TeachersAPP.pdb
+H:\SampleAPI-Net\CTS.Business.TeachersAPP\bin\Debug\netstandard2.0\CTS.Business.TeachersAPP.deps.json
+H:\SampleAPI-Net\CTS.Business.TeachersAPP\bin\Debug\netstandard2.0\CTS.Business.TeachersAPP.dll
+H:\SampleAPI-Net\CTS.Business.TeachersAPP\bin\Debug\netstandard2.0\CTS.Business.TeachersAPP.pdb
+H:\SampleAPI-Net\CTS.Business.TeachersAPP\obj\Debug\netstandard2.0\CTS.Business.TeachersAPP.AssemblyInfoInputs.cache
+H:\SampleAPI-Net\CTS.Business.TeachersAPP\obj\Debug\netstandard2.0\CTS.Business.TeachersAPP.AssemblyInfo.cs
+H:\SampleAPI-Net\CTS.Business.TeachersAPP\obj\Debug\netstandard2.0\CTS.Business.TeachersAPP.csproj.CoreCompileInputs.cache
+H:\SampleAPI-Net\CTS.Business.TeachersAPP\obj\Debug\netstandard2.0\CTS.Business.TeachersAPP.dll
+H:\SampleAPI-Net\CTS.Business.TeachersAPP\obj\Debug\netstandard2.0\CTS.Business.TeachersAPP.pdb

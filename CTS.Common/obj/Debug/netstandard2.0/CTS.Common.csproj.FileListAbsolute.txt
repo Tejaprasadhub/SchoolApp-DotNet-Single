@@ -1,0 +1,50 @@
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Common\bin\Debug\netstandard2.0\CTS.Common.deps.json
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Common\bin\Debug\netstandard2.0\CTS.Common.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Common\bin\Debug\netstandard2.0\CTS.Common.pdb
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Common\obj\Debug\netstandard2.0\CTS.Common.AssemblyInfoInputs.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Common\obj\Debug\netstandard2.0\CTS.Common.AssemblyInfo.cs
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Common\obj\Debug\netstandard2.0\CTS.Common.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Common\obj\Debug\netstandard2.0\CTS.Common.pdb
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Common\obj\Debug\netstandard2.0\CTS.Common.csprojAssemblyReference.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Common\obj\Debug\netstandard2.0\CTS.Common.csproj.CoreCompileInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Common\bin\Debug\netstandard2.0\CTS.Common.deps.json
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Common\bin\Debug\netstandard2.0\CTS.Common.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Common\bin\Debug\netstandard2.0\CTS.Common.pdb
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Common\obj\Debug\netstandard2.0\CTS.Common.csprojAssemblyReference.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Common\obj\Debug\netstandard2.0\CTS.Common.AssemblyInfoInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Common\obj\Debug\netstandard2.0\CTS.Common.AssemblyInfo.cs
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Common\obj\Debug\netstandard2.0\CTS.Common.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Common\obj\Debug\netstandard2.0\CTS.Common.pdb
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Common\obj\Debug\netstandard2.0\CTS.Common.csproj.CoreCompileInputs.cache
+H:\CTSJProject-Net-API\CTS.Common\bin\Debug\netstandard2.0\CTS.Common.deps.json
+H:\CTSJProject-Net-API\CTS.Common\bin\Debug\netstandard2.0\CTS.Common.dll
+H:\CTSJProject-Net-API\CTS.Common\bin\Debug\netstandard2.0\CTS.Common.pdb
+H:\CTSJProject-Net-API\CTS.Common\bin\Debug\netstandard2.0\CTS.Core.DataAccess.dll
+H:\CTSJProject-Net-API\CTS.Common\bin\Debug\netstandard2.0\CTS.DataAccess.Core.dll
+H:\CTSJProject-Net-API\CTS.Common\bin\Debug\netstandard2.0\CTS.Model.dll
+H:\CTSJProject-Net-API\CTS.Common\bin\Debug\netstandard2.0\CTS.Core.DataAccess.pdb
+H:\CTSJProject-Net-API\CTS.Common\bin\Debug\netstandard2.0\CTS.DataAccess.Core.pdb
+H:\CTSJProject-Net-API\CTS.Common\bin\Debug\netstandard2.0\CTS.Model.pdb
+H:\CTSJProject-Net-API\CTS.Common\obj\Debug\netstandard2.0\CTS.Common.csprojAssemblyReference.cache
+H:\CTSJProject-Net-API\CTS.Common\obj\Debug\netstandard2.0\CTS.Common.AssemblyInfoInputs.cache
+H:\CTSJProject-Net-API\CTS.Common\obj\Debug\netstandard2.0\CTS.Common.AssemblyInfo.cs
+H:\CTSJProject-Net-API\CTS.Common\obj\Debug\netstandard2.0\CTS.Common.csproj.CoreCompileInputs.cache
+H:\CTSJProject-Net-API\CTS.Common\obj\Debug\netstandard2.0\CTS.Common.csproj.CopyComplete
+H:\CTSJProject-Net-API\CTS.Common\obj\Debug\netstandard2.0\CTS.Common.dll
+H:\CTSJProject-Net-API\CTS.Common\obj\Debug\netstandard2.0\CTS.Common.pdb
+H:\SampleAPI-Net\CTS.Common\bin\Debug\netstandard2.0\CTS.Common.deps.json
+H:\SampleAPI-Net\CTS.Common\bin\Debug\netstandard2.0\CTS.Common.dll
+H:\SampleAPI-Net\CTS.Common\bin\Debug\netstandard2.0\CTS.Common.pdb
+H:\SampleAPI-Net\CTS.Common\bin\Debug\netstandard2.0\CTS.Core.DataAccess.dll
+H:\SampleAPI-Net\CTS.Common\bin\Debug\netstandard2.0\CTS.DataAccess.Core.dll
+H:\SampleAPI-Net\CTS.Common\bin\Debug\netstandard2.0\CTS.Model.dll
+H:\SampleAPI-Net\CTS.Common\bin\Debug\netstandard2.0\CTS.Core.DataAccess.pdb
+H:\SampleAPI-Net\CTS.Common\bin\Debug\netstandard2.0\CTS.DataAccess.Core.pdb
+H:\SampleAPI-Net\CTS.Common\bin\Debug\netstandard2.0\CTS.Model.pdb
+H:\SampleAPI-Net\CTS.Common\obj\Debug\netstandard2.0\CTS.Common.csprojAssemblyReference.cache
+H:\SampleAPI-Net\CTS.Common\obj\Debug\netstandard2.0\CTS.Common.AssemblyInfoInputs.cache
+H:\SampleAPI-Net\CTS.Common\obj\Debug\netstandard2.0\CTS.Common.AssemblyInfo.cs
+H:\SampleAPI-Net\CTS.Common\obj\Debug\netstandard2.0\CTS.Common.csproj.CoreCompileInputs.cache
+H:\SampleAPI-Net\CTS.Common\obj\Debug\netstandard2.0\CTS.Common.csproj.CopyComplete
+H:\SampleAPI-Net\CTS.Common\obj\Debug\netstandard2.0\CTS.Common.dll
+H:\SampleAPI-Net\CTS.Common\obj\Debug\netstandard2.0\CTS.Common.pdb

@@ -1,0 +1,66 @@
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\bin\Debug\netcoreapp3.1\CTS.API.TeachersAPP.exe
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\bin\Debug\netcoreapp3.1\CTS.API.TeachersAPP.deps.json
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\bin\Debug\netcoreapp3.1\CTS.API.TeachersAPP.runtimeconfig.json
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\bin\Debug\netcoreapp3.1\CTS.API.TeachersAPP.runtimeconfig.dev.json
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\bin\Debug\netcoreapp3.1\CTS.API.TeachersAPP.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\bin\Debug\netcoreapp3.1\CTS.API.TeachersAPP.pdb
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\CTS.API.TeachersAPP.AssemblyInfoInputs.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\CTS.API.TeachersAPP.AssemblyInfo.cs
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\CTS.API.TeachersAPP.RazorTargetAssemblyInfo.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\staticwebassets\CTS.API.TeachersAPP.StaticWebAssets.Manifest.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\staticwebassets\CTS.API.TeachersAPP.StaticWebAssets.xml
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\CTS.API.TeachersAPP.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\CTS.API.TeachersAPP.pdb
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\CTS.API.TeachersAPP.genruntimeconfig.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\CTS.API.TeachersAPP.csprojAssemblyReference.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\CTS.API.TeachersAPP.csproj.CopyComplete
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\CTS.API.TeachersAPP.csproj.CoreCompileInputs.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\CTS.API.TeachersAPP.MvcApplicationPartsAssemblyInfo.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\bin\Debug\netcoreapp3.1\CTS.API.TeachersAPP.exe
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\bin\Debug\netcoreapp3.1\CTS.API.TeachersAPP.deps.json
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\bin\Debug\netcoreapp3.1\CTS.API.TeachersAPP.runtimeconfig.json
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\bin\Debug\netcoreapp3.1\CTS.API.TeachersAPP.runtimeconfig.dev.json
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\bin\Debug\netcoreapp3.1\CTS.API.TeachersAPP.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\bin\Debug\netcoreapp3.1\CTS.API.TeachersAPP.pdb
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\CTS.API.TeachersAPP.csprojAssemblyReference.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\CTS.API.TeachersAPP.AssemblyInfoInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\CTS.API.TeachersAPP.AssemblyInfo.cs
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\CTS.API.TeachersAPP.csproj.CoreCompileInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\CTS.API.TeachersAPP.MvcApplicationPartsAssemblyInfo.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\CTS.API.TeachersAPP.RazorTargetAssemblyInfo.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\CTS.API.TeachersAPP.csproj.CopyComplete
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\staticwebassets\CTS.API.TeachersAPP.StaticWebAssets.Manifest.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\staticwebassets\CTS.API.TeachersAPP.StaticWebAssets.xml
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\CTS.API.TeachersAPP.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\CTS.API.TeachersAPP.pdb
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\CTS.API.TeachersAPP.genruntimeconfig.cache
+H:\CTSJProject-Net-API\CTS.API.TeachersAPP\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\CTSJProject-Net-API\CTS.API.TeachersAPP\bin\Debug\netcoreapp3.1\appsettings.json
+H:\CTSJProject-Net-API\CTS.API.TeachersAPP\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+H:\CTSJProject-Net-API\CTS.API.TeachersAPP\bin\Debug\netcoreapp3.1\CTS.API.TeachersAPP.exe
+H:\CTSJProject-Net-API\CTS.API.TeachersAPP\bin\Debug\netcoreapp3.1\CTS.API.TeachersAPP.deps.json
+H:\CTSJProject-Net-API\CTS.API.TeachersAPP\bin\Debug\netcoreapp3.1\CTS.API.TeachersAPP.runtimeconfig.json
+H:\CTSJProject-Net-API\CTS.API.TeachersAPP\bin\Debug\netcoreapp3.1\CTS.API.TeachersAPP.runtimeconfig.dev.json
+H:\CTSJProject-Net-API\CTS.API.TeachersAPP\bin\Debug\netcoreapp3.1\CTS.API.TeachersAPP.dll
+H:\CTSJProject-Net-API\CTS.API.TeachersAPP\bin\Debug\netcoreapp3.1\CTS.API.TeachersAPP.pdb
+H:\CTSJProject-Net-API\CTS.API.TeachersAPP\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\CTSJProject-Net-API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\CTS.API.TeachersAPP.csprojAssemblyReference.cache
+H:\CTSJProject-Net-API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\CTS.API.TeachersAPP.AssemblyInfoInputs.cache
+H:\CTSJProject-Net-API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\CTS.API.TeachersAPP.AssemblyInfo.cs
+H:\CTSJProject-Net-API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\CTS.API.TeachersAPP.csproj.CoreCompileInputs.cache
+H:\CTSJProject-Net-API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\CTS.API.TeachersAPP.MvcApplicationPartsAssemblyInfo.cache
+H:\CTSJProject-Net-API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\CTS.API.TeachersAPP.RazorTargetAssemblyInfo.cache
+H:\CTSJProject-Net-API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\CTS.API.TeachersAPP.csproj.CopyComplete
+H:\CTSJProject-Net-API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\staticwebassets\CTS.API.TeachersAPP.StaticWebAssets.Manifest.cache
+H:\CTSJProject-Net-API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\staticwebassets\CTS.API.TeachersAPP.StaticWebAssets.xml
+H:\CTSJProject-Net-API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\CTS.API.TeachersAPP.dll
+H:\CTSJProject-Net-API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\CTS.API.TeachersAPP.pdb
+H:\CTSJProject-Net-API\CTS.API.TeachersAPP\obj\Debug\netcoreapp3.1\CTS.API.TeachersAPP.genruntimeconfig.cache

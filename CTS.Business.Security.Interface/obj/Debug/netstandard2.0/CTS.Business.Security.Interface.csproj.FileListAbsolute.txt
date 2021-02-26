@@ -1,0 +1,60 @@
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.Business.Security.Interface.deps.json
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.Business.Security.Interface.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.Business.Security.Interface.pdb
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Security.Interface\obj\Debug\netstandard2.0\CTS.Business.Security.Interface.csprojAssemblyReference.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Security.Interface\obj\Debug\netstandard2.0\CTS.Business.Security.Interface.csproj.CoreCompileInputs.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Security.Interface\obj\Debug\netstandard2.0\CTS.Business.Security.Interface.AssemblyInfoInputs.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Security.Interface\obj\Debug\netstandard2.0\CTS.Business.Security.Interface.AssemblyInfo.cs
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Security.Interface\obj\Debug\netstandard2.0\CTS.Business.Security.Interface.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Security.Interface\obj\Debug\netstandard2.0\CTS.Business.Security.Interface.pdb
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.Common.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.Common.pdb
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Security.Interface\obj\Debug\netstandard2.0\CTS.Business.Security.Interface.csproj.CopyComplete
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.Business.Security.Interface.deps.json
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.Business.Security.Interface.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.Business.Security.Interface.pdb
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.Common.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.Common.pdb
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Security.Interface\obj\Debug\netstandard2.0\CTS.Business.Security.Interface.csprojAssemblyReference.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Security.Interface\obj\Debug\netstandard2.0\CTS.Business.Security.Interface.AssemblyInfoInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Security.Interface\obj\Debug\netstandard2.0\CTS.Business.Security.Interface.AssemblyInfo.cs
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Security.Interface\obj\Debug\netstandard2.0\CTS.Business.Security.Interface.csproj.CoreCompileInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Security.Interface\obj\Debug\netstandard2.0\CTS.Business.Security.Interface.csproj.CopyComplete
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Security.Interface\obj\Debug\netstandard2.0\CTS.Business.Security.Interface.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Security.Interface\obj\Debug\netstandard2.0\CTS.Business.Security.Interface.pdb
+H:\CTSJProject-Net-API\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.Business.Security.Interface.deps.json
+H:\CTSJProject-Net-API\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.Business.Security.Interface.dll
+H:\CTSJProject-Net-API\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.Business.Security.Interface.pdb
+H:\CTSJProject-Net-API\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.Common.dll
+H:\CTSJProject-Net-API\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.Core.DataAccess.dll
+H:\CTSJProject-Net-API\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.DataAccess.Core.dll
+H:\CTSJProject-Net-API\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.Model.dll
+H:\CTSJProject-Net-API\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.Common.pdb
+H:\CTSJProject-Net-API\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.Core.DataAccess.pdb
+H:\CTSJProject-Net-API\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.DataAccess.Core.pdb
+H:\CTSJProject-Net-API\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.Model.pdb
+H:\CTSJProject-Net-API\CTS.Business.Security.Interface\obj\Debug\netstandard2.0\CTS.Business.Security.Interface.csprojAssemblyReference.cache
+H:\CTSJProject-Net-API\CTS.Business.Security.Interface\obj\Debug\netstandard2.0\CTS.Business.Security.Interface.AssemblyInfoInputs.cache
+H:\CTSJProject-Net-API\CTS.Business.Security.Interface\obj\Debug\netstandard2.0\CTS.Business.Security.Interface.AssemblyInfo.cs
+H:\CTSJProject-Net-API\CTS.Business.Security.Interface\obj\Debug\netstandard2.0\CTS.Business.Security.Interface.csproj.CoreCompileInputs.cache
+H:\CTSJProject-Net-API\CTS.Business.Security.Interface\obj\Debug\netstandard2.0\CTS.Business.Security.Interface.csproj.CopyComplete
+H:\CTSJProject-Net-API\CTS.Business.Security.Interface\obj\Debug\netstandard2.0\CTS.Business.Security.Interface.dll
+H:\CTSJProject-Net-API\CTS.Business.Security.Interface\obj\Debug\netstandard2.0\CTS.Business.Security.Interface.pdb
+H:\SampleAPI-Net\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.Business.Security.Interface.deps.json
+H:\SampleAPI-Net\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.Business.Security.Interface.dll
+H:\SampleAPI-Net\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.Business.Security.Interface.pdb
+H:\SampleAPI-Net\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.Common.dll
+H:\SampleAPI-Net\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.Core.DataAccess.dll
+H:\SampleAPI-Net\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.DataAccess.Core.dll
+H:\SampleAPI-Net\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.Model.dll
+H:\SampleAPI-Net\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.Common.pdb
+H:\SampleAPI-Net\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.Core.DataAccess.pdb
+H:\SampleAPI-Net\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.DataAccess.Core.pdb
+H:\SampleAPI-Net\CTS.Business.Security.Interface\bin\Debug\netstandard2.0\CTS.Model.pdb
+H:\SampleAPI-Net\CTS.Business.Security.Interface\obj\Debug\netstandard2.0\CTS.Business.Security.Interface.AssemblyInfoInputs.cache
+H:\SampleAPI-Net\CTS.Business.Security.Interface\obj\Debug\netstandard2.0\CTS.Business.Security.Interface.AssemblyInfo.cs
+H:\SampleAPI-Net\CTS.Business.Security.Interface\obj\Debug\netstandard2.0\CTS.Business.Security.Interface.csproj.CoreCompileInputs.cache
+H:\SampleAPI-Net\CTS.Business.Security.Interface\obj\Debug\netstandard2.0\CTS.Business.Security.Interface.csproj.CopyComplete
+H:\SampleAPI-Net\CTS.Business.Security.Interface\obj\Debug\netstandard2.0\CTS.Business.Security.Interface.dll
+H:\SampleAPI-Net\CTS.Business.Security.Interface\obj\Debug\netstandard2.0\CTS.Business.Security.Interface.pdb
+H:\SampleAPI-Net\CTS.Business.Security.Interface\obj\Debug\netstandard2.0\CTS.Business.Security.Interface.csprojAssemblyReference.cache

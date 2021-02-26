@@ -1,0 +1,36 @@
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core\bin\Debug\netstandard2.0\CTS.Business.Core.deps.json
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core\bin\Debug\netstandard2.0\CTS.Business.Core.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core\bin\Debug\netstandard2.0\CTS.Business.Core.pdb
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core\obj\Debug\netstandard2.0\CTS.Business.Core.AssemblyInfoInputs.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core\obj\Debug\netstandard2.0\CTS.Business.Core.AssemblyInfo.cs
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core\obj\Debug\netstandard2.0\CTS.Business.Core.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core\obj\Debug\netstandard2.0\CTS.Business.Core.pdb
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core\bin\Debug\netstandard2.0\CTS.DataAccess.Core.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core\bin\Debug\netstandard2.0\CTS.DataAccess.Core.pdb
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core\obj\Debug\netstandard2.0\CTS.Business.Core.csprojAssemblyReference.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core\obj\Debug\netstandard2.0\CTS.Business.Core.csproj.CopyComplete
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core\obj\Debug\netstandard2.0\CTS.Business.Core.csproj.CoreCompileInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core\bin\Debug\netstandard2.0\CTS.Business.Core.deps.json
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core\bin\Debug\netstandard2.0\CTS.Business.Core.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core\bin\Debug\netstandard2.0\CTS.Business.Core.pdb
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core\bin\Debug\netstandard2.0\CTS.DataAccess.Core.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core\bin\Debug\netstandard2.0\CTS.DataAccess.Core.pdb
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core\obj\Debug\netstandard2.0\CTS.Business.Core.csprojAssemblyReference.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core\obj\Debug\netstandard2.0\CTS.Business.Core.AssemblyInfoInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core\obj\Debug\netstandard2.0\CTS.Business.Core.AssemblyInfo.cs
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core\obj\Debug\netstandard2.0\CTS.Business.Core.csproj.CoreCompileInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core\obj\Debug\netstandard2.0\CTS.Business.Core.csproj.CopyComplete
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core\obj\Debug\netstandard2.0\CTS.Business.Core.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.Business.Core\obj\Debug\netstandard2.0\CTS.Business.Core.pdb
+H:\CTSJProject-Net-API\CTS.Business.Core\bin\Debug\netstandard2.0\CTS.Business.Core.deps.json
+H:\CTSJProject-Net-API\CTS.Business.Core\bin\Debug\netstandard2.0\CTS.Business.Core.dll
+H:\CTSJProject-Net-API\CTS.Business.Core\bin\Debug\netstandard2.0\CTS.Business.Core.pdb
+H:\CTSJProject-Net-API\CTS.Business.Core\bin\Debug\netstandard2.0\CTS.DataAccess.Core.dll
+H:\CTSJProject-Net-API\CTS.Business.Core\bin\Debug\netstandard2.0\CTS.DataAccess.Core.pdb
+H:\CTSJProject-Net-API\CTS.Business.Core\obj\Debug\netstandard2.0\CTS.Business.Core.csprojAssemblyReference.cache
+H:\CTSJProject-Net-API\CTS.Business.Core\obj\Debug\netstandard2.0\CTS.Business.Core.AssemblyInfoInputs.cache
+H:\CTSJProject-Net-API\CTS.Business.Core\obj\Debug\netstandard2.0\CTS.Business.Core.AssemblyInfo.cs
+H:\CTSJProject-Net-API\CTS.Business.Core\obj\Debug\netstandard2.0\CTS.Business.Core.csproj.CoreCompileInputs.cache
+H:\CTSJProject-Net-API\CTS.Business.Core\obj\Debug\netstandard2.0\CTS.Business.Core.csproj.CopyComplete
+H:\CTSJProject-Net-API\CTS.Business.Core\obj\Debug\netstandard2.0\CTS.Business.Core.dll
+H:\CTSJProject-Net-API\CTS.Business.Core\obj\Debug\netstandard2.0\CTS.Business.Core.pdb

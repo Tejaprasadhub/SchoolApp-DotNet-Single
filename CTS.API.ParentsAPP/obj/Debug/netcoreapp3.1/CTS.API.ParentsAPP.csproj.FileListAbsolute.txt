@@ -1,0 +1,66 @@
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\bin\Debug\netcoreapp3.1\CTS.API.ParentsAPP.exe
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\bin\Debug\netcoreapp3.1\CTS.API.ParentsAPP.deps.json
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\bin\Debug\netcoreapp3.1\CTS.API.ParentsAPP.runtimeconfig.json
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\bin\Debug\netcoreapp3.1\CTS.API.ParentsAPP.runtimeconfig.dev.json
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\bin\Debug\netcoreapp3.1\CTS.API.ParentsAPP.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\bin\Debug\netcoreapp3.1\CTS.API.ParentsAPP.pdb
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\CTS.API.ParentsAPP.AssemblyInfoInputs.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\CTS.API.ParentsAPP.AssemblyInfo.cs
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\CTS.API.ParentsAPP.RazorTargetAssemblyInfo.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\staticwebassets\CTS.API.ParentsAPP.StaticWebAssets.Manifest.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\staticwebassets\CTS.API.ParentsAPP.StaticWebAssets.xml
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\CTS.API.ParentsAPP.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\CTS.API.ParentsAPP.pdb
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\CTS.API.ParentsAPP.genruntimeconfig.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\CTS.API.ParentsAPP.csprojAssemblyReference.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\CTS.API.ParentsAPP.csproj.CopyComplete
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\CTS.API.ParentsAPP.csproj.CoreCompileInputs.cache
+F:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\CTS.API.ParentsAPP.MvcApplicationPartsAssemblyInfo.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\bin\Debug\netcoreapp3.1\CTS.API.ParentsAPP.exe
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\bin\Debug\netcoreapp3.1\CTS.API.ParentsAPP.deps.json
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\bin\Debug\netcoreapp3.1\CTS.API.ParentsAPP.runtimeconfig.json
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\bin\Debug\netcoreapp3.1\CTS.API.ParentsAPP.runtimeconfig.dev.json
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\bin\Debug\netcoreapp3.1\CTS.API.ParentsAPP.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\bin\Debug\netcoreapp3.1\CTS.API.ParentsAPP.pdb
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\CTS.API.ParentsAPP.csprojAssemblyReference.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\CTS.API.ParentsAPP.AssemblyInfoInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\CTS.API.ParentsAPP.AssemblyInfo.cs
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\CTS.API.ParentsAPP.csproj.CoreCompileInputs.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\CTS.API.ParentsAPP.MvcApplicationPartsAssemblyInfo.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\CTS.API.ParentsAPP.RazorTargetAssemblyInfo.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\CTS.API.ParentsAPP.csproj.CopyComplete
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\staticwebassets\CTS.API.ParentsAPP.StaticWebAssets.Manifest.cache
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\staticwebassets\CTS.API.ParentsAPP.StaticWebAssets.xml
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\CTS.API.ParentsAPP.dll
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\CTS.API.ParentsAPP.pdb
+E:\Sample Dot Net Projects\Sample Solution\API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\CTS.API.ParentsAPP.genruntimeconfig.cache
+H:\CTSJProject-Net-API\CTS.API.ParentsAPP\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\CTSJProject-Net-API\CTS.API.ParentsAPP\bin\Debug\netcoreapp3.1\appsettings.json
+H:\CTSJProject-Net-API\CTS.API.ParentsAPP\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+H:\CTSJProject-Net-API\CTS.API.ParentsAPP\bin\Debug\netcoreapp3.1\CTS.API.ParentsAPP.exe
+H:\CTSJProject-Net-API\CTS.API.ParentsAPP\bin\Debug\netcoreapp3.1\CTS.API.ParentsAPP.deps.json
+H:\CTSJProject-Net-API\CTS.API.ParentsAPP\bin\Debug\netcoreapp3.1\CTS.API.ParentsAPP.runtimeconfig.json
+H:\CTSJProject-Net-API\CTS.API.ParentsAPP\bin\Debug\netcoreapp3.1\CTS.API.ParentsAPP.runtimeconfig.dev.json
+H:\CTSJProject-Net-API\CTS.API.ParentsAPP\bin\Debug\netcoreapp3.1\CTS.API.ParentsAPP.dll
+H:\CTSJProject-Net-API\CTS.API.ParentsAPP\bin\Debug\netcoreapp3.1\CTS.API.ParentsAPP.pdb
+H:\CTSJProject-Net-API\CTS.API.ParentsAPP\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\CTSJProject-Net-API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\CTS.API.ParentsAPP.csprojAssemblyReference.cache
+H:\CTSJProject-Net-API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\CTS.API.ParentsAPP.AssemblyInfoInputs.cache
+H:\CTSJProject-Net-API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\CTS.API.ParentsAPP.AssemblyInfo.cs
+H:\CTSJProject-Net-API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\CTS.API.ParentsAPP.csproj.CoreCompileInputs.cache
+H:\CTSJProject-Net-API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\CTS.API.ParentsAPP.MvcApplicationPartsAssemblyInfo.cache
+H:\CTSJProject-Net-API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\CTS.API.ParentsAPP.RazorTargetAssemblyInfo.cache
+H:\CTSJProject-Net-API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\CTS.API.ParentsAPP.csproj.CopyComplete
+H:\CTSJProject-Net-API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\staticwebassets\CTS.API.ParentsAPP.StaticWebAssets.Manifest.cache
+H:\CTSJProject-Net-API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\staticwebassets\CTS.API.ParentsAPP.StaticWebAssets.xml
+H:\CTSJProject-Net-API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\CTS.API.ParentsAPP.dll
+H:\CTSJProject-Net-API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\CTS.API.ParentsAPP.pdb
+H:\CTSJProject-Net-API\CTS.API.ParentsAPP\obj\Debug\netcoreapp3.1\CTS.API.ParentsAPP.genruntimeconfig.cache
